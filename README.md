@@ -1,1 +1,1 @@
-# Backspace-String-Compare-in-o-space--LeetCode
+# Backspace-String-Compare-in-o(1)-space--LeetCode
